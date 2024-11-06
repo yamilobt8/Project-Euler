@@ -4,7 +4,7 @@ Working On The 50 First Euler Project Problems
 
 ## My Own Euler Project Projress
 
-![alt acc](account.png)
+![alt account](account.png)
 ![alt progress](progress.png)
 
 ### Overview
