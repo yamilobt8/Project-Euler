@@ -38,3 +38,4 @@ def Largest_Product(number, n):
 sequence_n = int(input('what the serie of sequence you want: ')) # in our case 30
 largest_product_in_serie = Largest_Product(number_str, sequence_n)
 print(largest_product_in_serie)
+# end

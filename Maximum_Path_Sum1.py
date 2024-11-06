@@ -31,3 +31,4 @@ for i in range(1, len(triangle)):
 maximum_path = max(triangle[-1]) 
 
 print(maximum_path) # 1074
+# end

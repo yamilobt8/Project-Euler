@@ -9,3 +9,4 @@ def largest_factor(n):
     return factor
 result = largest_factor(600851475143)
 print(f"The largest prime factor of 600851475143 is: {result}")
+# end

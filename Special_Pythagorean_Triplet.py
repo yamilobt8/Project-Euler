@@ -8,3 +8,4 @@ def find_pythagorean_triplets(sum_total):
 
 triplet = find_pythagorean_triplets(1000)
 print(triplet) # 31875000
+# end

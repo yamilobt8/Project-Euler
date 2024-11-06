@@ -107,3 +107,4 @@ total_sum = sum(number_list)
 first_ten_digits = str(total_sum)[:10]
 
 print(first_ten_digits)
+# end

@@ -4,3 +4,4 @@ for i in range(len(number)): # loop over the number digits
     digits_sum += int(number[i]) 
 
 print(digits_sum)
+# end

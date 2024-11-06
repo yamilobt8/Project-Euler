@@ -9,3 +9,4 @@ factorial_sum = 0
 for i in range(len(result)):
     factorial_sum += int(result[i])
 print(factorial_sum)
+# end

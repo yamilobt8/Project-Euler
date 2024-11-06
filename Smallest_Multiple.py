@@ -9,3 +9,4 @@ while True:
     smallest_number += 20 # increasing the number by 20 to reduct time complexity
 
 print(smallest_number)
+# end

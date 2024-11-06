@@ -25,3 +25,4 @@ def count_letters_in_words(limit):
 # Calculate the total number of letters from 1 to 1000
 total_letters = count_letters_in_words(1000)
 print("Total number of letters from 1 to 1000:", total_letters)
+# end

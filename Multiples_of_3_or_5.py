@@ -7,3 +7,4 @@ for i in range(1000):
 sum = sum(numbers)
 print(f'the sum of all multiples of 3 or 5 below 1000 is: {sum}')
 
+# end

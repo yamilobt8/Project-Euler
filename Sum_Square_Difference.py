@@ -15,3 +15,4 @@ square_sum = get_squares_sum(number)
 sum_square = get_sum_square(number)
 
 print(f'Diff: {sum_square - square_sum}')
+# end
