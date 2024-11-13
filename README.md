@@ -4,7 +4,10 @@ Working On The 50 First Euler Project Problems
 
 ## My Own Euler Project Projress
 
-![alt account](https://projecteuler.net/profile/yamilobt8.png)
+<p align="center">
+    <img src="https://projecteuler.net/profile/yamilobt8.png" alt="alt account">
+</p>
+
 ![alt progress](progress.png)
 
 ### Overview
