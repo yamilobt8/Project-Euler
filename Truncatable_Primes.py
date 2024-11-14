@@ -6,35 +6,33 @@ def is_prime(n): # function to check prime numbers
             return False
     return True
 
-truncable_primes_sum = 0
-truncable_primes_count = 0
-
-def is_truncable(digits):
-    left_and_right = 0
-    # truncate digits from left
+def is_truncable_left_to_right(digits):
+    # Check if truncating from left to right always yields a prime
     for i in range(len(digits)):
         number = int(''.join(map(str, digits[i:])))
         if not is_prime(number):
             return False
-    left_and_right += 1
+    return True
 
-    digits = list(reversed(digits)) # we reverse the list so we can try truncate from the right
-    # truncate digits from right
-    for j in range(len(digits)):
-        number = int(''.join(map(str, digits[j:])))
+def is_truncable_right_to_left(digits):
+    # Check if truncating from right to left always yields a prime
+    for i in range(len(digits)):
+        number = int(''.join(map(str, digits[:len(digits) - i])))
         if not is_prime(number):
             return False
-    left_and_right += 1
+    return True
 
-i = 8
-while truncable_primes_count < 2:
+truncable_primes_sum = 0
+truncable_primes_count = 0
+
+i = 10
+while truncable_primes_count < 11:
     if is_prime(i):
         digits = [int(digit) for digit in str(i)]
-        if is_truncable(digits):
+        reversed_digits = list(reversed(digits))
+        if is_truncable_left_to_right(digits) and is_truncable_right_to_left(digits):
             truncable_primes_count += 1
             truncable_primes_sum += i
-
     i += 1
 
-print(truncable_primes_sum)
-print(truncable_primes_count)
+print(truncable_primes_sum) # 748317
