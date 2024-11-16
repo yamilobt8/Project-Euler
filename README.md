@@ -10,7 +10,9 @@ Working On The 50 First Euler Project Problems
 
 ![alt progress](progress.png)
 
-
+<p align="center">
+    <img src="stats.png" alt="alt account">
+</p>
 
 ### Overview
 Solutions Of The First 50 Project Euler Problems
