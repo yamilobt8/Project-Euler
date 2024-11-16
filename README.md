@@ -10,8 +10,10 @@ Working On The 50 First Euler Project Problems
 
 ![alt progress](progress.png)
 
+## Add Me
+
 <p align="center">
-    <img src="stats.png" alt="alt account">
+    <img src="addme.png" alt="alt account">
 </p>
 
 ### Overview
