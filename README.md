@@ -18,7 +18,7 @@ Working On The 50 First Euler Project Problems
 
 ### 2199847_KA3GpzjpMMuyiprVZjO7B54fQi7fmcr5
 
-## Join My List
+## Join My Freinds List
 
 <p align="center">
     <img src="freinds.png" alt="alt account">
