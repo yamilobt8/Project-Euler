@@ -45,5 +45,5 @@ To run the project locally, follow these steps:
 ```
 2. Run The Files(After Installing The latest Python version):  
 ```bash
-    python3 Large_Sum
+    python3 Large_Sum.py
 ```
