@@ -41,7 +41,7 @@ Solutions Of The First 50 Project Euler Problems
 To run the project locally, follow these steps:
 1. Clone the repository:  
 ```bash
-   git clone https://github.com/growthchasers/Project-Euler.git
+   git clone [https://github.com/growthchasers/Project-Euler.git](https://github.com/yamilobt8/Project-Euler.git)
 ```
 2. Run The Files(After Installing The latest Python version):  
 ```bash
