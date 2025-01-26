@@ -1,6 +1,6 @@
 # Project Overview
 
-Working On The 50 First Euler Project Problems
+Working On The 100 First Euler Project Problems
 
 ## My Own Euler Project Projress
 
@@ -25,7 +25,7 @@ Working On The 50 First Euler Project Problems
 </p>
 
 ### Overview
-Solutions Of The First 50 Project Euler Problems
+Solutions Of The First 100 Project Euler Problems
 
 ### Features
 - **Easy To understand**
